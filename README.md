@@ -42,8 +42,13 @@
 * <https://github.com/PiGames/Bomberman>
 
 ## Capturas
-![Main](https://scontent.fhrk1-1.fna.fbcdn.net/v/t1.15752-9/60984901_313659376201323_2293069626151534592_n.png?_nc_cat=111&_nc_ht=scontent.fhrk1-1.fna&oh=f2d1d31c4b5b519a153d92cbd9020b7e&oe=5D6B0B4C "Main del juego")
-![Opciones](https://scontent.fhrk1-1.fna.fbcdn.net/v/t1.15752-9/60626576_306879900207112_8831186053227347968_n.png?_nc_cat=107&_nc_ht=scontent.fhrk1-1.fna&oh=72781d7c477c9801de0e6fe6761f5375&oe=5D5D6822 "Opciones")
-![Partida](https://scontent.fhrk1-1.fna.fbcdn.net/v/t1.15752-9/60669870_1376935792445357_7410696985251938304_n.png?_nc_cat=104&_nc_ht=scontent.fhrk1-1.fna&oh=4ddd738d810ba6895cbfe572126489f7&oe=5D563988 "Partida del juego")
+![image](https://user-images.githubusercontent.com/39843782/84436143-991bb800-ac3b-11ea-9f94-deb503f62e58.png)
+
+![image](https://user-images.githubusercontent.com/39843782/84436166-a20c8980-ac3b-11ea-9f72-435073afe0f8.png)
+
+![image](https://user-images.githubusercontent.com/39843782/84436177-aafd5b00-ac3b-11ea-9c75-f2db86f73d23.png)
+
+![image](https://user-images.githubusercontent.com/39843782/84436252-ca948380-ac3b-11ea-995e-e79689d15103.png)
+
 
 #### Se llama Jihyo porque me encanta esa artista coreana ^^
